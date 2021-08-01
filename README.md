@@ -20,7 +20,7 @@ void print_max(int arr[5])
             maximum=arr[i];
         }
     }
-    cout<<"The maximum element in the array is:"<<maximum<<endl;
+    cout<<"The highest marks in the class are :"<<maximum<<endl;
 }
 void print_min(int arr[5])
 {
@@ -32,5 +32,5 @@ void print_min(int arr[5])
             minimum=arr[i];
         }
     }
-    cout<<"The minimum element in the array is:"<<minimum<<endl;
+    cout<<"The lowest marks in the class are:"<<minimum<<endl;
 }
